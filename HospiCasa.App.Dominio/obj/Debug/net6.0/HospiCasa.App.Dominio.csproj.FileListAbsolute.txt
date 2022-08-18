@@ -1,0 +1,12 @@
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\bin\Debug\net6.0\HospiCasa.App.Dominio.deps.json
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\bin\Debug\net6.0\HospiCasa.App.Dominio.dll
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\bin\Debug\net6.0\HospiCasa.App.Dominio.pdb
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\HospiCasa.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\HospiCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\HospiCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\HospiCasa.App.Dominio.AssemblyInfo.cs
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\HospiCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\HospiCasa.App.Dominio.dll
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\refint\HospiCasa.App.Dominio.dll
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\HospiCasa.App.Dominio.pdb
+C:\Users\Jparkur\Desktop\W11\Dev\Sharp\Hospitalizacion\HospiCasa.App\HospiCasa.App.Dominio\obj\Debug\net6.0\ref\HospiCasa.App.Dominio.dll

@@ -1,0 +1,44 @@
+
+agregar referencia
+    dotnet  add reference ..\HospiCasa.App.Dominio\
+
+estructura proyecto
+    dotnet new -o HospiCasa.App  
+    dotnet new sln -o HospiCasa.App 
+    cd .\HospiCasa.App\  
+    dotnet new classlib -o HospiCasa.App.Persistencia 
+    dotnet new classlib -o HospiCasa.App.Dominio 
+    dotnet new webapi -o HospiCasa.App.Servicios
+
+
+migracion: desde App.Persistencia
+    dotnet ef migrations add Inicial --startup-project ..\HospiCasa.App.Consola
+
+aplicar migracion: desde App.Persistencia
+    dotnet ef database update --startup-project ..\HospiCasa.App.Consola
+
+
+context.
+    Paciente.Add() //uno
+    Paciente.AddRange() //varios
+    Paciente.SaveChanges()
+eliminar
+    Paciente.Remove()
+    Paciente.SaveChanges()
+modificar
+    Paciente.SaveChanges()
+listado pacientes
+    Pacientes
+filtrar
+    Paciente.FirstOrDefault()
+filtro detalle
+    Pacientes
+    .Where( p=>p.Nombre=="julio")
+    .ToList()
+
+video manejo BD
+https://youtu.be/den0-F0gbls    
+
+
+
+
